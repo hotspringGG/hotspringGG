@@ -26,5 +26,6 @@ Stay curious, keep coding, and remember: the possibilities are as endless as lin
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotspringGG&show_icons=true&theme=dracula)
 Dev Langs :)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hotspringGG&layout=compact)]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hotspringGG&layout=compact)
 
