@@ -25,5 +25,6 @@ Connect with me on:
 Stay curious, keep coding, and remember: the possibilities are as endless as lines of code! ✨🚀
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotspringGG&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hotspringGG)]
+Dev Langs :)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hotspringGG&layout=compact)]
 
