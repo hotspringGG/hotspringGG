@@ -27,6 +27,6 @@ Stay curious, keep coding, and remember: the possibilities are as endless as lin
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hotspringGG&layout=compact)
 
 <br><br>
-<a href="https://t.me/moepoi" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40HotspringDev-28a8ea"></a>
+<a href="https://t.me/HotspringDev" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40HotspringDev-28a8ea"></a>
 <a href="hotspring@mchotspring.press"><img src="https://img.shields.io/badge/Email-hotspring@mchotspring.press-FF6CB9"></a>
 <a href="https://twitter.com/HotspringDev"><img src="https://img.shields.io/badge/Twitter-%40HotspringDev-blue"></a>
