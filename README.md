@@ -7,7 +7,7 @@ I'm a passionate developer who's always diving into the latest technology trends
 I thrive on the thrill of creative coding and problem-solving. My toolkit is diverse, and I'm known to sprinkle a bit of magic with every line of code I write. Whether it's frontend, backend, or the mysterious realm of algorithms, I'm always excited to take on new challenges and turn them into opportunities for growth.
 
 ## 🌌 Currently Exploring
-Diving deep into the world of graphics modules to add that extra touch of visual enchantment to my projects. From interactive animations to stunning visual effects, I'm on a journey to create immersive experiences that leave users in awe. Stay tuned as I share my adventures and discoveries in the realm of pixels and polygons.
+Still exploring many things.Tensorflow,pytorch,Linux kernel,Linux development and a lot.Keep trying and hope for the future.
 
 ## 🚀 My Goals
 I believe in constant growth, both as a developer and as an individual. My goal is to contribute positively to the open-source community by sharing my code, knowledge, and experiences. With each commit and pull request, I'm striving to make a meaningful impact and inspire others to embark on their coding journeys.
@@ -22,7 +22,7 @@ I'm always excited to collaborate, learn, and connect with fellow developers, te
 
 Stay curious, keep coding, and remember: the possibilities are as endless as lines of code! ✨🚀
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotspringGG&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hotspringGG&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hotspringGG&layout=compact)
 
