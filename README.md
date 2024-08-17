@@ -18,7 +18,7 @@ The tech world never stands still, and neither do I. Currently, I'm expanding my
 ## 🌟 Let's Connect!
 I'm always excited to collaborate, learn, and connect with fellow developers, tech enthusiasts, and creative minds. If you're as passionate about code and innovation as I am, let's join forces and create something amazing together. Feel free to reach out through GitHub or my social media channels – let's make waves in the world of tech! 🌊
 
-- GitHub: [github.com/HotspringDev](https://github.com/hotspringGG)
+- GitHub: [github.com/HotspringGG](https://github.com/hotspringGG)
 
 Stay curious, keep coding, and remember: the possibilities are as endless as lines of code! ✨🚀
 
@@ -28,5 +28,5 @@ Stay curious, keep coding, and remember: the possibilities are as endless as lin
 
 <br><br>
 <a href="https://t.me/HotspringDev" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40HotspringDev-28a8ea"></a>
-<a href="hotspring@mchotspring.press"><img src="https://img.shields.io/badge/Email-hotspring@mchotspring.press-FF6CB9"></a>
+<a href="hotspring@requan.top"><img src="https://img.shields.io/badge/Email-hotspring@requan.top-FF6CB9"></a>
 <a href="https://twitter.com/HotspringDev"><img src="https://img.shields.io/badge/Twitter-%40HotspringDev-blue"></a>
