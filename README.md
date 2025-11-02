@@ -1,32 +1,30 @@
-### Hi there I'm HotspringDev
+### Hi there — I'm **HotspringDev**
 
-## About Me
-I'm a passionate developer who's always diving into the latest technology trends and exploring the endless possibilities of coding. From turning caffeine into code to crafting digital experiences, I'm here to make a splash in the world of software development. My mission? To turn complex problems into elegant solutions while having fun along the way.
+#### About Me  
+I'm a developer driven by curiosity and precision. I enjoy exploring the intersection between systems, algorithms, and creativity — whether it’s crafting efficient backend architectures, experimenting with AI models, or diving into the Linux kernel.  
+My philosophy: write code that’s both *understandable* and *impactful*.
 
-## 🔥 What Fires Me Up
-I thrive on the thrill of creative coding and problem-solving. My toolkit is diverse, and I'm known to sprinkle a bit of magic with every line of code I write. Whether it's frontend, backend, or the mysterious realm of algorithms, I'm always excited to take on new challenges and turn them into opportunities for growth.
+#### What I’m Working On  
+I’m currently exploring:  
+- **AI & Machine Learning** — TensorFlow, PyTorch, model optimization  
+- **Linux Internals** — kernel development, device interfaces, performance tuning  
+- **Systems & Tooling** — efficient build systems, CLI utilities, open-source contributions  
 
-## 🌌 Currently Exploring
-Still exploring many things.Tensorflow,pytorch,Linux kernel,Linux development and a lot.Keep trying and hope for the future.
+#### Goals  
+I aim to build tools and ideas that last — practical, open, and cleanly engineered.  
+Contributing to open-source projects is a core part of that journey: every line of code should make the ecosystem stronger.
 
-## 🚀 My Goals
-I believe in constant growth, both as a developer and as an individual. My goal is to contribute positively to the open-source community by sharing my code, knowledge, and experiences. With each commit and pull request, I'm striving to make a meaningful impact and inspire others to embark on their coding journeys.
+#### Learning  
+I’m constantly refining my understanding of system-level programming, deep learning frameworks, and software design philosophy. I believe consistent learning and collaboration lead to real progress — not hype.
 
-## 📚 What I'm Learning
-The tech world never stands still, and neither do I. Currently, I'm expanding my skill set in AI and machine learning, exploring the ways they can shape the future of software. As I learn, I'll be sharing insights and tutorials to help others navigate this exciting frontier.
+#### Connect  
+If you’re working on something meaningful — open source, AI, systems, or performance — I’d love to connect and collaborate.  
+- GitHub: [github.com/HotspringDev](https://github.com/HotspringDev)  
+- Telegram: [@HotspringDev](https://t.me/HotspringDev)  
+- Email: [hotspring@requan.top](mailto:hotspring@requan.top)  
+- Twitter: [@HotspringDev](https://twitter.com/HotspringDev)
 
-## 🌟 Let's Connect!
-I'm always excited to collaborate, learn, and connect with fellow developers, tech enthusiasts, and creative minds. If you're as passionate about code and innovation as I am, let's join forces and create something amazing together. Feel free to reach out through GitHub or my social media channels – let's make waves in the world of tech! 🌊
+---
 
-- GitHub: [github.com/HotspringGG](https://github.com/hotspringGG)
-
-Stay curious, keep coding, and remember: the possibilities are as endless as lines of code! ✨🚀
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hotspringGG&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hotspringGG&layout=compact)
-
-<br><br>
-<a href="https://t.me/HotspringDev" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40HotspringDev-28a8ea"></a>
-<a href="hotspring@requan.top"><img src="https://img.shields.io/badge/Email-hotspring@requan.top-FF6CB9"></a>
-<a href="https://twitter.com/HotspringDev"><img src="https://img.shields.io/badge/Twitter-%40HotspringDev-blue"></a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HotspringDev&show_icons=true&theme=transparent)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HotspringDev&layout=compact&theme=transparent)
