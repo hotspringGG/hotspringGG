@@ -1,3 +1,5 @@
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HotspringDev&show_icons=true&theme=transparent)  
+
 ### Hi there — I'm **HotspringDev**
 
 #### About Me  
@@ -26,5 +28,4 @@ If you’re working on something meaningful — open source, AI, systems, or per
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HotspringDev&show_icons=true&theme=transparent)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HotspringDev&layout=compact&theme=transparent)
